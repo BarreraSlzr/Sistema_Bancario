@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Sistema_Bancario/Sistema_Bancario.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sistema_Bancario/cuentaDeUsuario.cs">
+    <Files>
+      <File FileName="Sistema_Bancario/cuentaDeUsuario.cs" Line="130" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
